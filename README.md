@@ -1,6 +1,6 @@
 <div align="center">
 
-# utils contrib
+# Dev Toolbox
 
 [![GitHub license](https://img.shields.io/github/license/MrYassinox/dev-toolbox?color=blue)](./LICENSE)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/MrYassinox/dev-toolbox/main?color=success&style=flat)
